@@ -1,3 +1,3 @@
 # Programming patterns practice
-
-### Singleton
+## Patterns:
+- Singleton
